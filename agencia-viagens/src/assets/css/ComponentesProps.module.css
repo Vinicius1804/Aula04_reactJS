@@ -1,0 +1,15 @@
+.corpo_props {
+    position: relative;
+    width: 450px;
+    height: auto;
+    backdrop-filter: blur(10px);
+    color: #000;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px 10px 100px 100px;
+    margin-top: 30px;
+    margin-left: 5px;
+    border: 1px solid;
+    z-index: 2;
+}
